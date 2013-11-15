@@ -1,0 +1,10 @@
+name: contact_dwt
+version: 0.0.1
+author: Your Name
+description: contact_dwt application that uses dartling for its model.
+homepage: http://ondart.me/
+dependencies:
+  browser: any
+  dart_web_toolkit: any
+  dartling: any
+  dartling_default_app: any
